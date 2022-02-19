@@ -87,7 +87,7 @@ const CoinsTable = () => {
           variant="h4"
           style={{ margin: 18, fontFamily: "Montserrar" }}
         >
-          Cryptocurrency Prices by Market Cap
+          Crypto currency Prices by Market Cap
         </Typography>
         <TextField
           label="Search For a Crypto Currency..."

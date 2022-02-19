@@ -3,9 +3,9 @@ import { makeStyles } from "@material-ui/styles";
 import Carousel from "../Carousel";
 
 const useStyles = makeStyles(() => ({
-  banner: {
-    backgroundImage: "url(./banner2.jpg)",
-  },
+  // banner: {
+  //   backgroundImage: "url(./banner2.jpg)",
+  // },
   bannerContent: {
     height: 400,
     display: "flex",

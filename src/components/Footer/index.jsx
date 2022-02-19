@@ -54,7 +54,7 @@ const Footer = () => {
                 <BsLinkedin className={classes.contactItems} />
               </a>
               <a
-                href="https://github.com/therajesh24/"
+                href="https://github.com/therajesh24/crypto-tracker"
                 target="_blank"
                 rel="noopener noreferrer"
               >

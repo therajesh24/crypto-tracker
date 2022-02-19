@@ -55,6 +55,7 @@ const AppContext = ({ children }) => {
     if (currency === "INR") setSymbol("₹");
     else if (currency === "USD") setSymbol("$");
     fetchCoins();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currency]);
 
   return (

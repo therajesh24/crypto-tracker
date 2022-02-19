@@ -180,6 +180,8 @@ export default function UserSidebar() {
                           />
                         </div>
                       );
+                    // eslint-disable-next-line array-callback-return
+                    return;
                   })}
                 </div>
               </div>
